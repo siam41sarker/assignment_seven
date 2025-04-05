@@ -2,7 +2,7 @@ import PropTypes from "prop-types";
 const CartContainer = ({ handleCart, cart, selectedPlayers }) => {
   return (
     <>
-      <div className="max-w-7xl mx-auto mt-20  sticky top-28 z-10">
+      <div className="max-w-7xl mx-auto mt-20 sticky top-28 z-10">
         <div className="flex justify-end">
           <button
             onClick={() => handleCart("players")}
