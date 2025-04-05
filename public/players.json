@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "player_name": "Virat Kohli",
+      "image": "https://i.ibb.co/LDvnKWfz/168875-lvubwkbudf-1642332586.jpg",
+      "role": "Batsman",
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm medium",
+      "price": 850000,
+      "country": "India",
+      "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+      "id": 2,
+      "player_name": "Steve Smith",
+      "image": "https://i.ibb.co/8nFkkqYK/steve-smith-pictures-plqsoal1luugiyt3.jpg",
+      "role": "Batsman",
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm leg spin",
+      "price": 1066000,
+      "country": "Australia",
+      "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+      "id": 3,
+      "player_name": "Ben Stokes",
+      "image": "https://i.ibb.co/Wv3DX9V0/Untitled-design-12.jpg",
+      "role": "All-rounder",
+      "batting_style": "Left-hand bat",
+      "bowling_style": "Right-arm fast-medium",
+      "price": 1000000,
+      "country": "England",
+      "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+      "id": 4,
+      "player_name": "Kane Williamson",
+      "image": "https://i.ibb.co/jZjwGZNr/KANE-WILLIAMSON.jpg",
+      "role": "Batsman",
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm off break",
+      "price": 350000,
+      "country": "New Zealand",
+      "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+      "id": 5,
+      "player_name": "Jasprit Bumrah",
+      "image": "https://i.ibb.co/N2Rw4ZWQ/2jfaofco-jasprit-bumrah-afp-625x300-22-November-24.webp",
+      "role": "Bowler",
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm fast",
+      "price": 850000,
+      "country": "India",
+      "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+      "id": 6,
+      "player_name": "Rashid Khan",
+      "image": "https://i.ibb.co/jPNBRSBT/Rashid-Khan-5-Jan-2025-ACBofficials-X-1024x615.jpg",
+      "role": "Bowler",
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm leg spin",
+      "price": 500000,
+      "country": "Afghanistan",
+      "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+      "id": 7,
+      "player_name": "David Warner",
+      "image": "https://i.ibb.co/3YdKHZJ3/495ae6d0-908c-11ef-a624-634f82a66078.jpg",
+      "role": "Batsman",
+      "batting_style": "Left-hand bat",
+      "bowling_style": "Right-arm leg spin",
+      "price": 1230000,
+      "country": "Australia",
+      "rating": "⭐⭐⭐⭐☆"
+    },
+    {
+      "id": 8,
+      "player_name": "Trent Boult",
+      "image": "https://i.ibb.co/HTm101cf/Trent-boult-GI.jpg",
+      "role": "Bowler",
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Left-arm fast",
+      "price": 350000,
+      "country": "New Zealand",
+      "rating": "⭐⭐⭐⭐☆"
+    },
+    {
+      "id": 9,
+      "player_name": "Tamim Iqbal",
+      "image": "https://i.ibb.co/9k5QdrN7/8ubhkmmg-tamim-iqbal-afp-625x300-17-May-22.webp",
+      "role": "Batsman",
+      "batting_style": "Left-hand bat",
+      "bowling_style": "Right-arm off break",
+      "price": 200000,
+      "country": "Bangladesh",
+      "rating": "⭐⭐⭐⭐☆"
+    },
+    {
+      "id": 10,
+      "player_name": "Joe Root",
+      "image": "https://i.ibb.co/Kp0ssMM7/2326.webp",
+      "role": "Batsman",
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm off break",
+      "price": 1000000,
+      "country": "England",
+      "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+      "id": 11,
+      "player_name": "Heinrich Klaasen",
+      "image": "https://i.ibb.co/7tNV1gyY/heinrich-klaasen-announces-test-retirement-2024-01-08.jpg",
+      "role": "Batsman/WK",
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm off break",
+      "price": 200000,
+      "country": "South Africa",
+      "rating": "⭐⭐⭐⭐☆"
+    },
+    {
+      "id": 12,
+      "player_name": "Marnus Labuschagne",
+      "image": "https://i.ibb.co/JWyqX66W/skysports-marnus-labuschagne-5298771.jpg",
+      "role": "Batsman",
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm leg spin",
+      "price": 984000,
+      "country": "Australia",
+      "rating": "⭐⭐⭐⭐⭐"
+    }
+  ]
+  
