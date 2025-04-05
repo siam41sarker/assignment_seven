@@ -17,4 +17,5 @@ The **Dream 11 Cricket Team** project is an engaging and interactive web applica
 - **User-Friendly Interface:** Designed with simplicity in mind, the application offers a smooth and intuitive user experience, making it easy for both cricket enthusiasts and newcomers to engage with fantasy sports.
 ## Live Links
 * https://dream_11_by_siam_sarker.surge.sh
+* https://dream-11-by-siam-sarker.netlify.app/
 ## This web application is Designed by Muhammad Siam Sarker
